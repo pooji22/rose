@@ -1,0 +1,13 @@
+h3{
+    text-align: center;
+    font-size: large;
+    background-color: antiquewhite;
+}
+.button{
+    background-color: aqua;
+    color: black;
+
+}
+button:hover{
+    color: white;
+}
